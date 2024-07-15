@@ -1,0 +1,74 @@
+/* Write your CSS here */
+.detailed-section {
+  display: flex;
+  padding: 30px;
+}
+.product-image {
+  height: 580px;
+  width: 450px;
+  margin-right: 20px;
+  border-radius: 20px;
+}
+.rating-button {
+  background-color: #3b82f6;
+  padding: 10px;
+  border-radius: 10px;
+  border-width: 0px;
+  display: flex;
+  align-items: center;
+  height: 30px;
+  margin-right: 10px;
+}
+.star-custom {
+  height: 20px;
+}
+.rating {
+  color: #ffffff;
+}
+.review-container {
+  display: flex;
+  align-items: center;
+}
+.count-buttons {
+  display: flex;
+  align-items: center;
+}
+.cart-button {
+  background-color: #3b82f6;
+  padding: 10px;
+  color: #ffffff;
+  border-width: 0px;
+}
+.minus-btn {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.plus-button {
+  background-color: transparent;
+  border-width: 0px;
+}
+.similar-product-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  text-align: center;
+}
+.continue-button {
+  background-color: #3b82f6;
+  padding: 10px;
+  border-width: 0px;
+  color: #ffffff;
+}
+.failure-image {
+  height: 320px;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}

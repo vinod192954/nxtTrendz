@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.similar-product-card {
+  list-style-type: none;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.similar-image {
+  height: 220px;
+  border-radius: 5px;
+}
+.star-rating-image {
+  height: 15px;
+}
+.rating-container {
+  background-color: #3b82f6;
+  padding: 10px;
+  border-width: 0px;
+  width: 50px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.product-name {
+  font-size: 18px;
+}
+.price-rating {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
